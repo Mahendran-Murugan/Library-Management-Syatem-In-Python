@@ -1,0 +1,4 @@
+#Requirements
+pillow
+tkcalendar
+mysql.connector
